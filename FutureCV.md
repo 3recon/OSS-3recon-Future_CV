@@ -4,7 +4,7 @@ Future CV
 <table>
   <tr>
     <td>
-      <img src="./미모지.jpg" alt="전찬혁 프로필 이미지" width="120">
+      <img src="./미모지.jpg" alt="프로필 이미지" width="120">
     </td>
     <td>
 
