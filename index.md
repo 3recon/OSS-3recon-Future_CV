@@ -4,15 +4,13 @@ Future CV
 <table>
   <tr>
     <td>
-      <img src="./미모지.jpg" alt="프로필 이미지" width="120">
+      <img src="./profile.jpg" alt="프로필 이미지" width="120">
     </td>
     <td>
-
-- Email: [jch200325@naver.com](mailto:jch200325@naver.com)
-- GitHub: [github.com/3recon](https://github.com/3recon)
-- Blog: [3recon.tistory.com](https://3recon.tistory.com/)
-- Portfolio: [Notion Portfolio](https://married-color-955.notion.site/)
-
+      <strong>Email</strong>: <a href="mailto:jch200325@naver.com">jch200325@naver.com</a><br>
+      <strong>GitHub</strong>: <a href="https://github.com/3recon">github.com/3recon</a><br>
+      <strong>Blog</strong>: <a href="https://3recon.tistory.com/">3recon.tistory.com</a><br>
+      <strong>Portfolio</strong>: <a href="https://married-color-955.notion.site/">Notion Portfolio</a>
     </td>
   </tr>
 </table>
