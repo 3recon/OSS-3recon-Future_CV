@@ -47,7 +47,7 @@ Future CV
 
 ## Projects
 
-### 캠퍼스 스터디 매칭 서비스
+### [캠퍼스 스터디 매칭 서비스](https://github.com/3recon/OSS-3recon-Future_CV/tree/main)
 - Period: Sep. 2028 - Dec. 2028년
 - 학생들의 관심 분야와 시간표를 기반으로 스터디 그룹을 추천하는 웹 서비스 개발
 - 회원 관리, 스터디 생성, 신청 및 매칭 기능을 위한 REST API 구현
@@ -55,7 +55,7 @@ Future CV
 - GitHub를 활용한 협업과 코드 리뷰를 통해 역할 분담과 일정 관리를 경험
 - 사용자의 조건에 따라 추천 결과를 다르게 제공하는 매칭 로직 설계
 
-### OpenPlan
+### [OpenPlan](https://github.com/3recon/OSS-3recon-Future_CV/tree/main)
 - Period: Mar. 2026 - Sep. 2026
 - 실제 실행 가능한 주간 계획을 수립하도록 돕는 AI 기반 시간 운영 서비스
 - 태스크 구조화, 주간 계획 생성, 재계획 추천 기능을 하나의 흐름으로 통합한 서비스
